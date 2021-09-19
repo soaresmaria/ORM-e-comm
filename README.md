@@ -30,6 +30,8 @@ This application is running under mysql as a local host, you can modify the .env
 
 ## Link through the video
 
+https://drive.google.com/file/d/1WftQvN6TtjFhi0v5_FIdtqrlZ_1YX-06/view
+
 
 ## [Questions](#table-of-contents)
 Please contact me using the following links:
